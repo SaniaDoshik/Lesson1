@@ -1,0 +1,10 @@
+console.log("text");
+var myVar;
+let myVar1;
+myVar1=14;
+console.log("Возраст: ",myVar1);
+let myName="Саша";
+let myVar2=true;
+myVar2=false;
+console.log(myName);
+console.log(myVar2);
